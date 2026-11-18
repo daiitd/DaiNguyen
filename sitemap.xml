@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <!-- TODO: Thay https://your-domain.com/ bằng domain thật khi deploy -->
+  <!-- TODO: Thay https://daiitd.github.io/DaiNguyen/ bằng domain thật khi deploy -->
   <url>
-    <loc>https://your-domain.com/</loc>
+    <loc>https://daiitd.github.io/DaiNguyen/</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://your-domain.com/nguyenphuongdai.jpg</image:loc>
+      <image:loc>https://daiitd.github.io/DaiNguyen/nguyenphuongdai.jpg</image:loc>
       <image:title>Nguyễn Phương Đại – Lập trình viên Fullstack PHP Node.js</image:title>
       <image:caption>Chân dung Nguyễn Phương Đại – Lập trình viên Fullstack tại Việt Nam</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://your-domain.com/assets/img/nguyen-phuong-dai-coding.jpg</image:loc>
+      <image:loc>https://daiitd.github.io/DaiNguyen/assets/img/nguyen-phuong-dai-coding.jpg</image:loc>
       <image:title>Nguyễn Phương Đại thực chiến lập trình Fullstack trên VS Code</image:title>
       <image:caption>Nguyễn Phương Đại đang viết code phát triển ứng dụng web PHP, Node.js, React</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://your-domain.com/assets/img/nguyen-phuong-dai-teamwork.jpg</image:loc>
+      <image:loc>https://daiitd.github.io/DaiNguyen/assets/img/nguyen-phuong-dai-teamwork.jpg</image:loc>
       <image:title>Nguyễn Phương Đại giao lưu cùng thầy cô, đồng nghiệp và khách hàng</image:title>
       <image:caption>Tinh thần kết nối và hợp tác của lập trình viên Nguyễn Phương Đại</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://your-domain.com/assets/img/nguyen-phuong-dai-google-search.jpg</image:loc>
+      <image:loc>https://daiitd.github.io/DaiNguyen/assets/img/nguyen-phuong-dai-google-search.jpg</image:loc>
       <image:title>Thương hiệu cá nhân Nguyễn Phương Đại IT trên Google Search</image:title>
       <image:caption>Kết quả tìm kiếm từ khóa NguyenPhuongDai IT trên Google với GitHub, Facebook và CV</image:caption>
     </image:image>
