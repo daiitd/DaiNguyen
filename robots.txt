@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: Thay https://your-domain.com bằng domain thật khi deploy
+Sitemap: https://your-domain.com/sitemap.xml

@@ -1,0 +1,4 @@
+# Nguồn code gốc đã mã hóa vào index.html
+/src/
+*.clean.*
+build-protect.py
