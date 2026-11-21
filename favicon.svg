@@ -1,12 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7c5cff"/>
-      <stop offset="55%" stop-color="#3b82f6"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
-    </linearGradient>
+    <clipPath id="round"><circle cx="32" cy="32" r="30"/></clipPath>
   </defs>
-  <rect width="64" height="64" rx="15" fill="url(#g)"/>
-  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Segoe UI, system-ui, sans-serif" font-weight="700" font-size="28" fill="#ffffff">PĐ</text>
+  <g clip-path="url(#round)">
+    <image href="assets/img/logo-header.png" width="64" height="64" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <circle cx="32" cy="32" r="29.5" fill="none" stroke="#5ee7d8" stroke-width="3"/>
 </svg>
