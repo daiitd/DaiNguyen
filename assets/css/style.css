@@ -10,9 +10,9 @@
 .npd-ft-grid{display:grid;grid-template-columns:1.45fr .9fr 1fr 1.1fr;gap:36px;padding-bottom:48px;border-bottom:1px solid var(--ft-border)}
 .npd-ft-col{display:flex;flex-direction:column}
 .npd-ft-brand{display:inline-flex;align-items:center;gap:14px;text-decoration:none;margin-bottom:16px;align-self:flex-start;group:brand}
-.npd-ft-logo-wrap{position:relative;width:50px;height:50px;border-radius:14px;padding:2px;background:linear-gradient(135deg,var(--ft-primary),var(--ft-secondary),var(--ft-accent));box-shadow:0 0 22px -4px rgba(6,182,212,.55),0 8px 20px -6px rgba(0,0,0,.8);display:inline-flex;align-items:center;justify-content:center;flex:none;overflow:hidden;transition:transform .35s var(--ease),box-shadow .35s var(--ease)}
-.npd-ft-brand:hover .npd-ft-logo-wrap{transform:translateY(-2px) scale(1.05) rotate(-2deg);box-shadow:0 0 30px -2px rgba(56,189,248,.85)}
-.npd-ft-logo{width:100%;height:100%;border-radius:12px;object-fit:cover;object-position:center 18%;display:block;background:var(--ft-bg-1)}
+.npd-ft-logo-wrap{position:relative;width:54px;height:54px;border-radius:50%;padding:2px;background:linear-gradient(135deg,var(--ft-primary),var(--ft-secondary),var(--ft-accent));box-shadow:0 0 0 3px rgba(56,189,248,.14),0 0 22px -2px rgba(6,182,212,.6),0 8px 20px -6px rgba(0,0,0,.85);display:inline-flex;align-items:center;justify-content:center;flex:none;overflow:hidden;transition:transform .35s var(--ease),box-shadow .35s var(--ease)}
+.npd-ft-brand:hover .npd-ft-logo-wrap{transform:translateY(-2px) scale(1.06);box-shadow:0 0 0 4px rgba(56,189,248,.24),0 0 30px 0 rgba(56,189,248,.85)}
+.npd-ft-logo{width:100%;height:100%;border-radius:50%;object-fit:cover;object-position:center 18%;display:block;background:var(--ft-bg-1)}
 .npd-ft-monogram{display:none;font-weight:800;font-size:17px;letter-spacing:1px;color:var(--ft-accent)}
 .npd-ft-logo-wrap.is-fallback .npd-ft-logo{display:none}
 .npd-ft-logo-wrap.is-fallback .npd-ft-monogram{display:block}
